@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sultan-umit-wedding/static/css/main.0ff806d4.css",
-    "main.js": "/sultan-umit-wedding/static/js/main.aa539f47.js",
+    "main.css": "/sultan-umit-wedding/static/css/main.dbcd0cf7.css",
+    "main.js": "/sultan-umit-wedding/static/js/main.bdc35e13.js",
     "static/js/787.4ff3cea1.chunk.js": "/sultan-umit-wedding/static/js/787.4ff3cea1.chunk.js",
     "static/media/MainPhoto.png": "/sultan-umit-wedding/static/media/MainPhoto.b7ecb953d49851d5327e.png",
     "static/media/dudeontheguitarHey Monro-Boiy Bulgan.mp3": "/sultan-umit-wedding/static/media/dudeontheguitarHey Monro-Boiy Bulgan.8933c828de1aa758e20d.mp3",
@@ -12,6 +12,7 @@
     "static/media/BKANTKZ.woff": "/sultan-umit-wedding/static/media/BKANTKZ.99d520659faa3b7ff7bd.woff",
     "static/media/kz-balmoral-regular.ttf": "/sultan-umit-wedding/static/media/kz-balmoral-regular.222d95588b1ee277857b.ttf",
     "static/media/line.svg": "/sultan-umit-wedding/static/media/line.5b2c7b7ccef641bf098c24bc4ab7bc3c.svg",
+    "static/media/AsylbekM02Shelleykz.woff": "/sultan-umit-wedding/static/media/AsylbekM02Shelleykz.a40363d5ad4b3b8ec923.woff",
     "static/media/calendar.svg": "/sultan-umit-wedding/static/media/calendar.f5e7ff0812919dde0c4007155ca0092f.svg",
     "static/media/circle.svg": "/sultan-umit-wedding/static/media/circle.901ea1d39682abf06a949440da179c36.svg",
     "static/media/LineBg.png": "/sultan-umit-wedding/static/media/LineBg.f1e0ca92fe735e29776b.png",
@@ -19,12 +20,12 @@
     "static/media/Romulc.woff": "/sultan-umit-wedding/static/media/Romulc.7abe3b8a8422dbf308d5.woff",
     "static/media/2gis.png": "/sultan-umit-wedding/static/media/2gis.a5dcf1f67686c8b5e520.png",
     "index.html": "/sultan-umit-wedding/index.html",
-    "main.0ff806d4.css.map": "/sultan-umit-wedding/static/css/main.0ff806d4.css.map",
-    "main.aa539f47.js.map": "/sultan-umit-wedding/static/js/main.aa539f47.js.map",
+    "main.dbcd0cf7.css.map": "/sultan-umit-wedding/static/css/main.dbcd0cf7.css.map",
+    "main.bdc35e13.js.map": "/sultan-umit-wedding/static/js/main.bdc35e13.js.map",
     "787.4ff3cea1.chunk.js.map": "/sultan-umit-wedding/static/js/787.4ff3cea1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ff806d4.css",
-    "static/js/main.aa539f47.js"
+    "static/css/main.dbcd0cf7.css",
+    "static/js/main.bdc35e13.js"
   ]
 }
