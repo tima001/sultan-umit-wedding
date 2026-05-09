@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sultan-umit-wedding/static/css/main.dbcd0cf7.css",
-    "main.js": "/sultan-umit-wedding/static/js/main.bdc35e13.js",
+    "main.js": "/sultan-umit-wedding/static/js/main.bed7d98f.js",
     "static/js/787.4ff3cea1.chunk.js": "/sultan-umit-wedding/static/js/787.4ff3cea1.chunk.js",
     "static/media/MainPhoto.png": "/sultan-umit-wedding/static/media/MainPhoto.b7ecb953d49851d5327e.png",
     "static/media/dudeontheguitarHey Monro-Boiy Bulgan.mp3": "/sultan-umit-wedding/static/media/dudeontheguitarHey Monro-Boiy Bulgan.8933c828de1aa758e20d.mp3",
@@ -21,11 +21,11 @@
     "static/media/2gis.png": "/sultan-umit-wedding/static/media/2gis.a5dcf1f67686c8b5e520.png",
     "index.html": "/sultan-umit-wedding/index.html",
     "main.dbcd0cf7.css.map": "/sultan-umit-wedding/static/css/main.dbcd0cf7.css.map",
-    "main.bdc35e13.js.map": "/sultan-umit-wedding/static/js/main.bdc35e13.js.map",
+    "main.bed7d98f.js.map": "/sultan-umit-wedding/static/js/main.bed7d98f.js.map",
     "787.4ff3cea1.chunk.js.map": "/sultan-umit-wedding/static/js/787.4ff3cea1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dbcd0cf7.css",
-    "static/js/main.bdc35e13.js"
+    "static/js/main.bed7d98f.js"
   ]
 }
